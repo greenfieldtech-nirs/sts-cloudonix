@@ -11,7 +11,7 @@ See the following [Guide in our Documentation](https://developers.deepgram.com/d
 ## Pre-requisites
 
 You will need:
-* A [Cloudonix account](https://cloudonix.com/signup) with an active Twilio number (the free tier will work).
+* A [Cloudonix account](https://cockpit.cloudonix.io) with an active Twilio number (the free tier will work).
 * A Deepgram API Key - [get an API Key here](https://console.deepgram.com/signup?jump=keys).
 * (_Optional_) [ngrok](https://ngrok.com/) to let Cloudonix access a local server.
 * A valid `Cloudonix Container Application` Configuration in your [Cloudonix Account](https://developers.cloudonix.com/Documentation/accountManagement/hostedApplicationsManagement) like the following:
@@ -60,6 +60,8 @@ For a guided tour of the code, see the following [Guide in our Documentation](ht
 ## Getting Help
 
 - Found a bug? [Create an issue](https://github.com/greenfieldtech-nirs/sts-cloudonix/issues)
+- [Cloudonix Developer Resource](https://developers.cloudonix.com)
+- [Join Cloudonix Discord](https://discord.gg/etCGgNh9VV)
 - [Join the Deepgram Github Discussions Community](https://github.com/orgs/deepgram/discussions)
 - [Join the Deepgram Discord Community](https://discord.gg/xWRaCDBtW4)
 
